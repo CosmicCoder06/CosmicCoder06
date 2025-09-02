@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I’m Avhi from Mathura 🌸<br><br>* 🔭 I’m working as a student at GLA University, diving deep into the world of knowledge.<br>* 📚 I'm currently learning everything math and beyond, from numbers to the universe of ideas.<br>* ⚡ In my free time I vibe with creativity, explore random curiosities, and maybe sneak in a little chaos just for fun.</p>
+<p align="left">I’m CosmicCoder <br><br>* 🔭 I’m working as a student at GLA University, diving deep into the world of knowledge.<br>* 📚 I'm currently learning everything math and beyond, from numbers to the universe of ideas.<br>* ⚡ In my free time I vibe with creativity, explore random curiosities, and maybe sneak in a little chaos just for fun.</p>
 
 ###
 
